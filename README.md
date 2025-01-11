@@ -18,3 +18,6 @@
 
 ![Web Developer](https://img.shields.io/badge/-Web%20Developer-007ACC.svg?style=for-the-badge)
 ![IT Support](https://img.shields.io/badge/-Information%20Technology%20Support-FFD700.svg?style=for-the-badge)
+
+### 🤝 Let's Connect!
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadiqbalnugraha)
