@@ -1,24 +1,5 @@
 ## Hi There, I am Iqbal 👋
 
-<!-- Smooth Wave -->
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none">
-    <path d="M0,50 C150,100 350,0 600,50 C850,100 1050,0 1200,50 L1200,100 L0,100 Z" 
-      fill="#61DAFB">
-      <animate attributeName="d" dur="5s" repeatCount="indefinite"
-        values="
-          M0,50 C150,100 350,0 600,50 C850,100 1050,0 1200,50 L1200,100 L0,100 Z;
-          M0,50 C150,0 350,100 600,50 C850,0 1050,100 1200,50 L1200,100 L0,100 Z;
-          M0,50 C150,100 350,0 600,50 C850,100 1050,0 1200,50 L1200,100 L0,100 Z;" />
-    </path>
-    <text x="50%" y="50%" fill="white" text-anchor="middle" dominant-baseline="middle" font-size="24" font-family="Arial">
-      Welcome!
-    </text>
-  </svg>
-</div>
-
----
-
 ### I like work with!
 
 ![React JS](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
